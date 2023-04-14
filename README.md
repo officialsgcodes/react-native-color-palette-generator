@@ -9,5 +9,5 @@ You can watch the complete tutorial on how to build this color palette generator
 
 ### What will we building?
 
-| ![](Screenshot.jpeg) | ![](Screenshot1.jpeg) |
+| ![](Screenshot.jpg) | ![](Screenshot1.jpg) |
 | :-------------: | :-------------: |
